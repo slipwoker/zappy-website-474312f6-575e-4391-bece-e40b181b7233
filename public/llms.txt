@@ -1,0 +1,87 @@
+# פניסיון נוני — Generative Engine Optimization Map
+
+> A premium dog boarding and daycare service with a warm, trustworthy, and professional atmosphere. The brand emphasizes a welcoming environment for pets and their owners, featuring high-quality dog imagery and a clean, pet-friendly aesthetic. The overall vibe is caring, safe, and upscale — designed to give dog owners peace of mind while their furry companions are in expert hands.
+
+---
+
+## Pages
+
+### בית
+https://-474312f6.zappy5.app
+מחפשים שירותי חיות מחמד באזורכם? בפניסיון נוני תמצאו פנסיון כלבים יוקרתי ומעון יום מקצועי באווירה בטוחה ומלאת אהבה. בואו לתת לחבר הכי טוב שלכם חוויה מפנקת עוד היום!
+
+### פנסיון ומעון יום
+https://-474312f6.zappy5.app/boarding-daycare
+פנסיון ומעון יום יוקרתיים המציעים לכלבים שלכם מרחב בטוח, יחס אישי ופעילויות מהנות. צרו קשר כדי להבטיח מקום לחבר הפרוותי שלכם בסביבה הכי אוהבת ומקצועית שיש.
+
+### טיפוח
+https://-474312f6.zappy5.app/grooming
+שירותי טיפוח מקצועיים שישאירו את הכלב שלכם נקי, בריא ומריח נפלא. מהברשה עדינה ועד תספורת מעוצבת, הצוות שלנו מעניק חוויה מרגיעה ומפנקת. קבעו תור עוד היום!
+
+### מחירים ושאלות נפוצות
+https://-474312f6.zappy5.app/pricing
+כל התשובות על מחירים, מסלולים ושאלות נפוצות במקום אחד. בחרו את החבילה שמתאימה בדיוק לצרכים של כלבכם והתחילו לחסוך בחיוך. היכנסו עכשיו והבטיחו את המקום!
+
+### צור קשר והזמנות
+https://-474312f6.zappy5.app/contact
+מוכנים להעניק לכלבכם את הטיפול הטוב ביותר? צרו קשר עוד היום להזמנת מקום בפנסיון, מעון יום או טיפוח. הצוות המסור שלנו מחכה לשמוע מכם ולהבטיח חוויה מושלמת!
+
+### תודה רבה | פניסיון נוני
+https://-474312f6.zappy5.app/thank-you
+תודה שפניתם אלינו. הודעתכם התקבלה בהצלחה ונחזור אליכם בהקדם לגבי שירותי חיות מחמד קרוב אליי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-474312f6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-474312f6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-474312f6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-474312f6.zappy5.app/contact
+- Endpoint: https://-474312f6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פניסיון נוני
+A premium dog boarding and daycare service with a warm, trustworthy, and professional atmosphere. The brand emphasizes a welcoming environment for pets and their owners, featuring high-quality dog imagery and a clean, pet-friendly aesthetic. The overall vibe is caring, safe, and upscale — designed to give dog owners peace of mind while their furry companions are in expert hands.
+
+## Target Audience
+- dog owners seeking premium pet care
+- בעלי כלבים המחפשים טיפול פרימיום
+- אנשי מקצוע עסוקים
+- בעלי כלבים מטיילים
+
+## Industry
+Pet Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-474312f6.zappy5.app/sitemap.xml
+- Robots: https://-474312f6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-474312f6.zappy5.app/llms-full.txt
